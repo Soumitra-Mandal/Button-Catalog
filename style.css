@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+    background-color: #2b3c4d;
+    font-family: Poppins;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button {
+    height: 70px;
+    width: 200px;
+    margin: 20px;
+    background-color: white;
+}
+
+#b1 {
+    background-color: #2b3c4d;
+    border: solid 3px #cf4f39;
+    border-radius: 10px;
+    height: 67px;
+    width: 197px;
+}
+
+#b1t {
+    padding-top: 17px;
+    color: #cf4f39;
+}
+
+#b2 {
+    background-image: url("bg.jpg");
+    background-size: cover;
+    border-radius: 40px;
+}
+
+#b2t {
+    padding-top: 20px;
+    color: white;
+}
+
+#b3 {
+    background-color: #3291d1;
+    border-radius: 10px;
+}
+
+#b3t {
+    padding-top: 22px;
+    color: white;
+}
+
+#b4 {
+    background-color: #178c0b;
+    border-radius: 10px;
+}
+
+#b4t {
+    margin-top: -29px;
+}
+
+#cloud {
+    margin-top: 22px;
+    margin-left: 35px;
+    margin-bottom: 0;
+}
+
+#b5 {
+    background: #03001e;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #fdeff9, #ec38bc, #7303c0, #03001e);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 10px;
+}
+
+#b5t {
+    color: white;
+    padding-top: 22px;
+}
+
+#b6 {
+    border-radius: 4px;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.5) inset, 0 7px 23px 0 rgba(0, 0, 0, 0.47) inset;
+}
+
+#b6t {
+    color: #444;
+    padding-top: 22px;
+}
